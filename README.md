@@ -1,7 +1,5 @@
 # **Keep The Tower Alive**
 
-## 🛡️ **Beschütze den Tower, überlebe die Gegnerwellen und sammle Power-Ups!**
-
 ---
 
 ### 📝 **Beschreibung**
